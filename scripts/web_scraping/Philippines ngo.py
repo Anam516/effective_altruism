@@ -3,6 +3,9 @@
 Created on Mon Dec 18 17:18:10 2017
 
 @author: hussaina
+
+Scrapper to get Address, Description, Name, Purpose and Website (if any) from the source http://www.pcnc.com.ph/ngo-list.php
+Python version 3.6
 """
 
 
